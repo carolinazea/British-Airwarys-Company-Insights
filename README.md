@@ -4,12 +4,12 @@
 
 ## Analysis includes:
 
-### Scraping data 
-### Collecting customer feedback
-### Sentiment Analysis
-### Sentiment analysis of Bigram/Trigram
-### Topic modeling (Non-Negative Matrix Factorization (NMF) & Latent Dirichlet Allocation (LDA) Models
-### WordCloud
+### - Scraping data 
+### - Collecting customer feedback
+### - Sentiment Analysis
+### - Sentiment analysis of Bigram/Trigram
+### - Topic modeling (Non-Negative Matrix Factorization (NMF) & Latent Dirichlet Allocation (LDA) Models
+### - WordCloud
 
 ## Objective of analysis is to provide customer review insights. 
 
