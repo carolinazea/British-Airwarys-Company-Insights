@@ -20,3 +20,7 @@ Tools Used: Python (BeautifulSoup, wordcloud, stopwords, textblob, vaderSentimen
 ------------------------------
 
 Task 2 Analysis steps includes:
+
+- EDA based on Customer Flight Booking
+- Predictive Modeling
+- Visualizations 
