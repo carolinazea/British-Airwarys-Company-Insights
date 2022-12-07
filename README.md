@@ -13,7 +13,7 @@ Task 1 Analysis steps includes:
 - Vader Sentiment
 - Pie chart
 
-Objective of analysis is to provide customer review insights. 
+Objective of task is to provide customer review insights. 
 
 Tools Used: Python (BeautifulSoup, wordcloud, stopwords, textblob, vaderSentiment)
 
@@ -24,3 +24,5 @@ Task 2 Analysis steps includes:
 - EDA based on Customer Flight Booking
 - Predictive Modeling
 - Visualizations 
+
+Objective of task is to provide variables that contribute towards customers booking British Airways.
